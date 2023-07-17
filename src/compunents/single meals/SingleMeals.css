@@ -1,0 +1,22 @@
+.card-System{
+ box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+   padding: 30px;
+   border-radius: 10px;
+}
+.card-System img{
+    width: 200px;
+}
+.preview-div{
+    margin-top: 10px;
+}
+.button{
+   
+    padding: 12px 24px;
+    border-radius: 10px;
+    border: 2px orange solid;
+    background-color: orange;
+    cursor: pointer;
+    color: white;
+    text-decoration: none;
+    font-weight: bolder;
+}

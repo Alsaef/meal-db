@@ -1,0 +1,9 @@
+.container{
+    margin: auto;
+    width: 75%;
+}
+.meals-main{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+}
